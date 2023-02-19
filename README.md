@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on : C++
 - 🌱 I’m currently learning : C++, Data Science
-- 💬 Ask me about : cars
 - 😄 Pronouns: he/him
 - The languages I learn : C, C++, Python <br>
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)<br>
