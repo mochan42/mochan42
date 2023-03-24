@@ -7,7 +7,7 @@
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)<br>
 - The tool I use to code : Visual Studio Code<br>
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-- The cloud I use to deploy my machine learning models and my dashboards: Azure, AWS<br>
+- The clouds I use to deploy my machine learning models and my dashboards: Azure, AWS<br>
   [![My Skills](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
  
 
