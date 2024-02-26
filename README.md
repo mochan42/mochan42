@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I learn Software Engineering at 42 Wolfsburg. <br>
+- I completed my Software Engineering Core Curriculum at 42 Wolfsburg. <br>
 - I also completed a full time Data Science degree (Master Level) with OpenClassrooms. <br>
 - I am interested in : Machine Learning, Data Science, Big Data, Computer Vision, Automotive Engineering and Embedded Systems.<br>
 - 🔭 I’m currently working on : C++
