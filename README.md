@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on : C++
 - 🌱 I’m currently learning : C++, Data Science
 - 😄 Pronouns: he/him
-- The languages I learn : C, C++, Python <br>
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)<br>
+- The languages I learn : C, C++, Python, Matlab <br>
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab)](https://skillicons.dev)<br>
 - The tool I use to code : Visual Studio Code<br>
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 - The clouds I use to deploy my machine learning models and my dashboards: Azure, AWS<br>
